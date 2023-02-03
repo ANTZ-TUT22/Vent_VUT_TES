@@ -1,5 +1,11 @@
 # MerSeta ViroVent:
 
+## Required Add-Ons:
+
+* system composer
+* simscape
+* Simscape Fluids
+
 ## Description:
 
 * VUT Mechanical Model includes physical model of the follwoing
